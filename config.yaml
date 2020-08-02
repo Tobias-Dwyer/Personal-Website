@@ -1,4 +1,5 @@
-baseURL: https://tobiasdwyer.com
+baseURL: 
+#https://tobiasdwyer.com
 languageCode: en-us
 title: Personal Website
 theme: hugo-refresh
