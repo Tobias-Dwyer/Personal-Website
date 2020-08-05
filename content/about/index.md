@@ -7,6 +7,26 @@ showInMenu: true
 # no need for the "summary" parameter as it is not displayed in any previews
 ---
 
-I am a Chemical Engineering PhD student at the University of Michigan working in Professor Sharon Glotzer's Group. Here I work on the theory of entropy in colloidal systems and build models to predict the crystal structures self assembled by hard and patchy particles. 
+I am a Chemical Engineering PhD student at the University of Michigan working in Professor [Sharon Glotzer's Group][1]. Here I work on the theory of entropy in colloidal systems and build models to predict the crystal structures self assembled by hard and patchy particles. 
 
-I went to undergrad at the University of Arkansas where I received my Bachelor's of Science in Chemical Engineering. During that time I worked in the lab of Professor Lauren Greenlee. I also had two REUs through the National Science Foundation, one at the University of Texas, Austin, under Professor John Ekerdt, and another at Tulane University under Professor Hank Ashbaugh.  
+![](glotzer_lab_image.jpg)
+
+I went to undergrad at the University of Arkansas where I received my Bachelor's of Science in Chemical Engineering. During that time I worked in the lab of Professor [Lauren Greenlee][2]. 
+
+![](greenlee_lab_photo.jpg)
+
+I also had two REUs through the National Science Foundation, one at the University of Texas, Austin, under Professor [John Ekerdt][3],
+
+![](austin_group_photo.jpg)
+
+and another at Tulane University under Professor [Hank Ashbaugh][4].
+
+![](tulane_reu_group.jpg)
+
+I owe a lot to these undergraduate experiences, Dr. Greenlee for always believing in me and supporting my interests, Dr. Ekerdt for making me believe I could go to a top tier research university and Hank for making me believe I could be a theorist someday. Go check out their websites they do incredible and interesting work. 
+
+
+[1]:https://glotzerlab.engin.umich.edu/home/
+[2]:https://sites.uark.edu/greenlee/
+[3]:https://sites.utexas.edu/ekerdtgroup/dr-john-g-ekerdt/
+[4]:https://sse.tulane.edu/cbe/faculty/ashbaugh
