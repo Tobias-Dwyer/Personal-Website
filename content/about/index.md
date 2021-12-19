@@ -7,7 +7,7 @@ showInMenu: true
 # no need for the "summary" parameter as it is not displayed in any previews
 ---
 
-I am a Chemical Engineering PhD student at the University of Michigan working in Professor [Sharon Glotzer's Group][1]. Here I work on the theory of entropy in colloidal systems and build models to predict the crystal structures self assembled by hard and patchy particles. 
+I am a Chemical Engineering PhD student at the University of Michigan working in Professor [Sharon Glotzer's Group][1]. Here I work on a variety of projects including, how binary 2D assemblies of particles make porous host-guest networks, how some cell shapes settle into porous structures, and how particles move through porous media. In addition to working on these research projects I also work as a developer and maintainer of codes in the group, but the bulk has been dedicated to the group's geometry package, [coxeter][5]. 
 
 ![](glotzer_lab_image.jpg)
 
@@ -30,3 +30,4 @@ I owe a lot to these undergraduate experiences, Dr. Greenlee for always believin
 [2]:https://sites.uark.edu/greenlee/
 [3]:https://sites.utexas.edu/ekerdtgroup/dr-john-g-ekerdt/
 [4]:https://hanka40.wixsite.com/hankpage
+[5]:https://coxeter.readthedocs.io/en/latest/
