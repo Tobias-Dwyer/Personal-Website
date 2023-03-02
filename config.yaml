@@ -103,16 +103,20 @@ params:
   homepage:
     # this options let you specify if you want a link to the homepage
     # it can be: "none", "menu", "footer" or "menu+footer"
-    # linkPosition: "footer" 
+    linkPosition: "menu" 
     # this options let you specify the text of the link to the homepage
     # linkText: "Homepage"  
     # option to specify the title in the homepage
     title: Tobias Dwyer
+    #link: https://meetings.aps.org/Meeting/MAR23/Session/S16.13
     # option to specify the subtitle in the homepage
-    subtitle: ~PhD Student at University of Michigan~
+    subtitle: ~PhD Student at University of Michigan (Come see my 2023 APS talk! Trapped Either Way Lose-Lose Diffusion in Ordered Porous Environements, Thursday 10:24 AM Room 208)~ 
+    #subtitle: ~PhD Student at University of Michigan~    # option to specify the subtitle in the homepage
+    #subsubtitle: ~PhD Student at University of Michigan~
     # option to specify image in the homepage
-    image: "/images/headshot.jpg" # worker.svg 
+    image: "/images/NCRC_headshot.png" # worker.svg 
     # option to specify the width of the image in the homepage
+    #imageWidth: 1000px
     imageWidth: 1000px
 
   # footer options
@@ -149,7 +153,9 @@ params:
     #    link: username
     #    title: Instagram
     # option to specify the copyright in the footer
-    copyright: Tobias Dwyer - 2020
+    copyright: Tobias Dwyer - 2023
+
+      #[1]: https://meetings.aps.org/Meeting/MAR23/Session/S16.13 
 
 ###################################################################
 ################## multilanguage support options ##################

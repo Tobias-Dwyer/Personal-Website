@@ -9,6 +9,8 @@ showInMenu: true
 
 [Google Scholar][1]: Where you can see all the spicy analytics about my pubs! :D
 
+These are only my publications that have been peer reviewed and accepted. If you would like a more recent and complete list of my projects, please visit my research interests page.
+Those projects will have their 'prime time' moments on this page soon enough. 
 
 Publication List:
 
