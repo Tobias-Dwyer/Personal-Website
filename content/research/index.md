@@ -13,6 +13,16 @@ I am deeply interested in how nanoparticles, colloids, and a variety of biologic
 
 **Current Projects and Interests**:
 
+*DNA Nano Objects*
+
+DNA Nano objects have recently been synthesized to take a [variety of shapes][5] including octahedra, tetrahedra, cubes and icosahedra. These objects can self assemble into crystals by themselves and co-assemble with DNA coated nanoparticles allowing for a vast array of crystal structures [not previously accessible][4] nanoparticles.
+In collaboration with the [Gang Group][6] at Columbia, **my work** pertains to the crystallization of these complex building blocks. Though simple rules can often predict the self-assembly of these building blocks, the underlying microscopic properties of each building block can lead to anomalous crystal structures. By understanding how these crystals can go beyond our assumed simple rules that dictate assembly, we can design even more complex crystal structures that go beyond our initial assumption about self assembly of nano objects.  
+
+*Tunable Gold Nanoparticle Assemblies*
+
+I work with gold nanoparticles in a variety of contexts. In my collaborations with the Ye Group and Indiana university I study charged nanocubes constrained to 2D, which you can read more about below in the out of equilibrium assembly section. I also work with even more complex systems, including changed tetrahedra in surfactant solutions and model the complex physics underpinning their self assembly into complicated crystal structures. 
+
+
 *Biophysics of Cells* 
 
 A variety of biological systems can be studied from the perspective of colloidal physics. The shape and mechanical properties of cells often dictate how they interact in the body and with each other. 
@@ -21,10 +31,6 @@ Therefore, understanding how they red blood cells aggregate, self organize, and 
 
 The properties of cells are often essential in other aspects. A fascinating example is the growth of colonies of E. coli bacteria, where the mobility of bacteria [dramatically influences how the colonies grow][1]. Mobility of the bacteria will smooth out local concentration [instabilities of bacteria][2]. But that's enough fan boying over this work, I'm also interested in colloidal self assembly.  
 
-*DNA Nano Objects*
-
-DNA Nano objects have recently been synthesized to take a [variety of shapes][5] including octahedra, tetrahedra, cubes and icosahedra. These objects can self assemble into crystals by themselves and co-assemble with DNA coated nanoparticles allowing for a vast array of crystal structures [not previously accessible][4] nanoparticles.
-In collaboration with the [Gang Group][6] at Columbia, **my work** pertains to the crystallization of these complex building blocks. Though simple rules can often predict the self-assembly of these building blocks, the underlying microscopic properties of each building block can lead to anomalous crystal structures. By understanding how these crystals can go beyond our assumed simple rules that dictate assembly, we can design even more complex crystal structures that go beyond our initial assumption about self assembly of nano objects.  
 
 *Out of Equilibrium Nanoparticle Assemblies*
 
@@ -34,9 +40,9 @@ By understanding the interactions between particles we can simulate these system
 
 *Colloidal Tunable Host Guest Assemblies*
 
-Nanoparticle [host-guest assemblies][10] are a new class of colloidal structures (currently only realized for hard particles) where a 'host' particle forms a orientationally restricted 'cage' around a more orientationally and vibrationally free 'guest' particle at the center of the cage. In these systems, entropy is compartmentalized, meaning that the host has a lower entropy and the guest has a higher entropy, owing to a higher free volume in the host structure. 
+Nanoparticle [host-guest assemblies][10] are a new class of colloidal structures (currently only realized for hard particles) where a 'host' particle forms a orientationally restricted 'cage' around a more orientationally and vibrationally free 'guest' particle at the center of the cage. In these systems, entropy is compartmentalized, meaning that the host has a lower entropy and the guest has a higher entropy, owing to a higher free volume in the host structure. Entropy compartmentalization has already been discovered for both [2D systems][10] and [3D systems][12].
 
-**My work** on Host-Guest structures involves tuning the assembly of these structure via simple geometric rules. 
+**My work** on Host-Guest structures involves tuning the assembly of these structure via simple geometric rules which you can read about in [this paper][11]!
 I have shown in a simple system of tri-tipped concave star particles and convex guest particles, you can tune the guest particle shape to change the underlying crystal structure. 
 I have discovered multiple new 2D host-guest crystals including guest rotators, guest discrete rotator, homo-porous guest crystals (which you can choose based on the guest), and hetero-porous guest crystals. 
 I therefore show that Host-Guest crystals are easily tunable based on guest shape and could be a useful assembly method for assembling high-quality binary crystals. 
@@ -52,3 +58,5 @@ I therefore show that Host-Guest crystals are easily tunable based on guest shap
 [8]: https://ye.lab.indiana.edu/
 [9]: https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=0CAQQw7AJahcKEwiomLbfwb39AhUAAAAAHQAAAAAQAg&url=https%3A%2F%2Fscholar.google.com%2Fcitations%3Fuser%3DYENaH1YAAAAJ%26hl%3Den&psig=AOvVaw0cMzAfr1oSEws54o8gUT5H&ust=1677855683497317
 [10]:https://pubs.rsc.org/en/content/articlelanding/2021/sm/d0sm02073g  
+[11]:https://pubs.rsc.org/en/content/articlelanding/2023/sm/d3sm00891f
+[12]:https://www.nature.com/articles/s41557-023-01200-6

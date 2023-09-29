@@ -7,7 +7,7 @@ showInMenu: true
 # no need for the "summary" parameter as it is not displayed in any previews
 ---
 
-I am a Chemical Engineering PhD student at the University of Michigan working in Professor [Sharon Glotzer's Group][1]. Here I work on a variety of projects including, how binary 2D assemblies of particles make porous host-guest networks, how some cell shapes settle into porous structures, and how particles move through porous media (visit my **research interests** page to learn more). In addition to working on these research projects I also work as a developer and maintainer of codes in the group, but the bulk has been dedicated to the group's geometry package, [coxeter][5]. 
+I am a Chemical Engineering PhD student at the University of Michigan working in Professor [Sharon Glotzer's Group][1]. Here I work on a variety of projects including, how binary 2D assemblies of particles make porous host-guest networks, how some cell shapes settle into ordered structures, how charged nanoparticles self-assemble, how DNA nano-objects self-assemble, and how particles move through porous media (visit my **research interests** page to learn more). In addition to working on these research projects I also work as a developer and maintainer of codes in the group, but the bulk has been dedicated to the group's geometry package, [coxeter][5]. 
 
 ![](glotzer_lab_image.jpg)
 
