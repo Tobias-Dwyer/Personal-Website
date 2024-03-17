@@ -114,10 +114,11 @@ params:
     #subtitle: ~PhD Student at University of Michigan~    # option to specify the subtitle in the homepage
     #subsubtitle: ~PhD Student at University of Michigan~
     # option to specify image in the homepage
+    #image: "/images/headshot_NCRC.svg" # worker.svg 
     image: "/images/headshot_NCRC.svg" # worker.svg 
     # option to specify the width of the image in the homepage
-    #imageWidth: 1000px
-    imageWidth: 1000px
+    imageWidth: 100000px
+    
 
   # footer options
   footer:
