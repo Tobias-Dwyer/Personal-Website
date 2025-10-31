@@ -107,10 +107,10 @@ params:
     # this options let you specify the text of the link to the homepage
     # linkText: "Homepage"  
     # option to specify the title in the homepage
-    title: Tobias Dwyer
+    title: Tobias Dwyer, PhD
     #link: https://meetings.aps.org/Meeting/MAR23/Session/S16.13
     # option to specify the subtitle in the homepage
-    subtitle: ~PhD Student at University of Michigan~ 
+    subtitle: ~Postdoctoral Researcher at Institute of Science and Technology Austria (ISTA)~ 
     #subtitle: ~PhD Student at University of Michigan~    # option to specify the subtitle in the homepage
     #subsubtitle: ~PhD Student at University of Michigan~
     # option to specify image in the homepage
@@ -154,7 +154,7 @@ params:
     #    link: username
     #    title: Instagram
     # option to specify the copyright in the footer
-    copyright: Tobias Dwyer - 2023
+    copyright: Tobias Dwyer - 2025
 
       #[1]: https://meetings.aps.org/Meeting/MAR23/Session/S16.13 
 
