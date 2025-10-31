@@ -7,11 +7,23 @@ showInMenu: true
 # no need for the "summary" parameter as it is not displayed in any previews
 ---
 
-I am a soft matter researcher finishing up a PhD in chemical engineering who moonlights as a condensed matter physicist and theorist. 
+I am a soft matter researcher who recently finished up a PhD in chemical engineering. I now am working as a postdoctoral researcher in biophysics, working to understand how cells work incredible feats, keeping us healthy, and navigating complex environments. 
 I have a deep interest in how the methods and ideas of soft matter physics can be applied to biophysics, robotics, and ecology. 
-I am deeply interested in how nanoparticles, colloids, and a variety of biological systems interact and form complex, ordered assemblies and make collective decisions based on simple rules of interaction. 
+During my PhD, I focused on how nanoparticles and colloids interact and form complex, ordered assemblies and make collective decisions based on simple rules of interaction. 
+I am now focused creating theories and simulations to understand how a broad class of ameoboid-like cells navigate the complex environments.  
+In the long term, my research aims to use simulations of how cells navigate their envirnoments to design novel immune therapies.
 
-**Current Projects and Interests**:
+**Postdoctoral Research Projects and Interests**
+
+*Immune Cell Navigation*
+
+Stay tuned for more detailed thoughts here
+
+*How do cells stay coherent?*
+
+Stay tuned for more detailed thoughts here
+
+**PhD Projects and Interests**:
 
 *DNA Nano Objects*
 

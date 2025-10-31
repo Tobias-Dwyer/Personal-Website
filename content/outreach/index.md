@@ -13,9 +13,7 @@ I have worked for several outreach/mentorship programs at the University of Mich
 
 I also worked as lead mentor for all chemical engineering graduate mentors where I both led mentorship efforts for first year graduate students and led the intro to graduate school course.  
 
-I have mentored several undergraduate researchers, 2 have graduated winter semester 2022, both taking jobs in industry.
-
-My current mentee, will graduate in 2025 and conducts research in active matter with the goal of pursuing a PhD in chemical engineering after graduation.
+I have mentored several undergraduate researchers, 2 have graduated winter semester 2022, both taking jobs in industry. My third mentee, Katherine Ellis, is now a PhD student at Northwestern University. While working with me she developed simulations of active matter in fluctuating environments in collaboration with the Schwartz Lab at University of Colorado, Boulder. 
 
 Curriculum:
 
