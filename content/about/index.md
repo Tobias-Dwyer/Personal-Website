@@ -6,8 +6,10 @@ hideLastModified: true
 showInMenu: true
 # no need for the "summary" parameter as it is not displayed in any previews
 ---
+I am a postdoctoral researcher at the Institute of Science and Technology Austria (ISTA) in Professor [Andela Saric's group][6]. Here my work forcuses on the biophysics of cells, using soft matter simulation methods to understand how our cells do incredible feats.
 
-I am a Chemical Engineering PhD student at the University of Michigan working in Professor [Sharon Glotzer's Group][1]. Here I work on a variety of projects including, how binary 2D assemblies of particles make porous host-guest networks, how some cell shapes settle into ordered structures, how charged nanoparticles self-assemble, how DNA nano-objects self-assemble, and how particles move through porous media (visit my **research interests** page to learn more). In addition to working on these research projects I also work as a developer and maintainer of codes in the group, but the bulk has been dedicated to the group's geometry package, [coxeter][5]. 
+I completed my PhD at the University of Michigan working in Professor [Sharon Glotzer's Group][1]. Here I worked on a variety of projects including, how binary 2D assemblies of particles make porous host-guest networks, how some cell shapes settle into ordered structures, how charged nanoparticles self-assemble, how DNA nano-objects self-assemble, and how particles move through porous media (visit my **research interests** page to learn more). In addition to working on these research projects I also work as a developer and maintainer of codes in the group, but the bulkwas dedicated to the group's geometry package, [coxeter][5]. 
+My graduate school experiences shaped me as a researcher and gave me confidence in answering new, complex, and exciting questions. 
 
 ![](glotzer_lab_image.jpg)
 
@@ -31,3 +33,4 @@ I owe a lot to these undergraduate experiences, Dr. Greenlee for always believin
 [3]:https://sites.utexas.edu/ekerdtgroup/dr-john-g-ekerdt/
 [4]:https://hanka40.wixsite.com/hankpage
 [5]:https://coxeter.readthedocs.io/en/latest/
+[6]:https://andelasaric.com
